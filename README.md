@@ -9,10 +9,10 @@
 <header>
     <h1>Vladyslava Reznichenko</h1>
     <nav>
-        <a href="https://www.google.com/">One</a>
-        <a href="https://www.youtube.com/">Two</a>
-        <a href="https://www.instagram.com/">Three</a>
-        <a href="https://www.netflix.com/">Github</a>
+        <a href="https://www.google.com/">Google</a>
+        <a href="https://www.youtube.com/">YouTube</a>
+        <a href="https://www.instagram.com/">Instagram</a>
+        <a href="https://www.netflix.com/">Netflix</a>
     </nav>
 </header>
 <section>
